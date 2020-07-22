@@ -6,6 +6,9 @@
 <h5>h5</h5>
 <h6>h6</h6>
 <div class="button">кнопка</div>
-<div>понимаем Pull</div><div>test1</div>
+<div>понимаем Pull</div>
+<<<<<<< HEAD
 <div>test1</div>
+=======
 <div>test2</div>
+>>>>>>> 84f401a9463b81785857ae366d1e0cb0abc9266a
